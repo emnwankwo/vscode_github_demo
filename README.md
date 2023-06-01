@@ -1,1 +1,1 @@
-# vscode_github_demo
+# vscode_github_demo # news-client
